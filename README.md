@@ -1,8 +1,16 @@
-## Hi there 👋
+## Hi Everyone my name is SeungMin LEE 👋
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tmdals3000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="45%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmdals3000&theme=midnight-purple&hide_border=true&background=0d1117"/>
+
+</div>
 
 <!--
 **tmdals3000/tmdals3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
