@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi Everyone my name is SeungMin LEE 👋
+# Hi there👋
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tmdals3000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="45%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="45%"/>
