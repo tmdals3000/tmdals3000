@@ -2,14 +2,16 @@
 
 # Hi there👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmdals3000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="45%"/>
+<h1 align="center">Hi there 👋</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="45%"/>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/tmdals3000?style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/tmdals3000?affiliations=OWNER&style=for-the-badge&color=8A2BE2" />
+  <img src="https://komarev.com/ghpvc/?username=tmdals3000&style=for-the-badge&color=8A2BE2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tmdals3000&theme=midnight-purple&hide_border=true&background=0D1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tmdals3000&theme=discord&no-frame=true&row=1&column=6" />
 </p>
 
 ## 🛠 Tech Stacks
