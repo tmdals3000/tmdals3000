@@ -4,10 +4,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tmdals3000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="45%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="45%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmdals3000&theme=midnight-purple&hide_border=true&background=0d1117"/>
-
-</div>
+<img src="https://streak-stats.demolab.com/?user=tmdals3000&theme=midnight-purple&hide_border=true&background=0d1117"/>
 
 
 ## 🛠 Tech Stacks
