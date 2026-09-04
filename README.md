@@ -2,7 +2,7 @@
 
 # Hi there👋
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tmdals3000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&v=2" /><img src="https://github-readme-stats.vercel.app/api?username=tmdals3000&show_icons=true&theme=default&hide_border=true&v=2" width="45%"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&v=2" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=default&hide_border=true&v=2" width="45%"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-black-78.vercel.app/api?username=tmdals3000&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&v=2" /><img src="https://github-readme-stats-theta-black-78.vercel.app/api?username=tmdals3000&show_icons=true&theme=default&hide_border=true&v=2" width="45%"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-black-78.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&v=2" /><img src="https://github-readme-stats-theta-black-78.vercel.app/api/top-langs/?username=tmdals3000&layout=compact&theme=default&hide_border=true&v=2" width="45%"/></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tmdals3000&theme=midnight-purple&hide_border=true&background=0d1117" />
